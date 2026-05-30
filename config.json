@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercpdate",
+        "uuid": 6898059,
+        "checksum": "canrrg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
